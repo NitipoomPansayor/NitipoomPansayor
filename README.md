@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Nitipoom Pansayor 👋</h1>
-<h3 align="center">Project Manager who also ships the code · Computer Engineering @ Chulalongkorn University</h3>
+<h3 align="center">A com eng student who love to talk with human greater than code · Computer Engineering @ Chulalongkorn University</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nitipoom-pansayor/"><img src="https://img.shields.io/badge/LinkedIn-nitipoom--pansayor-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
